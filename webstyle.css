@@ -1,0 +1,47 @@
+*{
+    font-family: 'Itim', cursive;
+}
+
+.link{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    font-size:large;
+    margin: 25px;
+    color: white;
+
+
+}
+
+.div1
+{
+ height: 150px;   
+ background-color: black;
+ padding-top: 20px;
+
+}
+.div2
+{
+    text-align: center;
+    padding-top: 200px;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    height:300px;
+
+}
+.div3
+{
+    background:linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    height: 600px;
+    margin: 0px;
+}
+#img
+{
+    height: 200px;
+    width:auto;
+    
+    
+}
+.div5
+{
+    background-color:linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+}
